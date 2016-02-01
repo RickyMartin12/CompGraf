@@ -11,5 +11,5 @@
 - Execute o script em bash proj.sh executável (./proj.sh)
 
 
-
+PS: Instalar o Blender 2.72 em Windows e em Linux
 
