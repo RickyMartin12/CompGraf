@@ -4,7 +4,7 @@
 
 ### Em Windows
 
-- Execute o programa "12.exe" e "Final_Project.exe"
+- Execute o programa "game.exe"
 
 ### Em Linux (Ubuntu, Linux, etc sistema operativo linux):
 
