@@ -14,3 +14,6 @@
 PS: Instalar o Blender 2.72 em Windows e em Linux
 
 
+![1459527970168040](https://cloud.githubusercontent.com/assets/9846274/14213506/36a4ec3c-f830-11e5-91a7-8c96c1cd1574.PNG)
+![Uploading 1459528121627955.PNG…]()
+![1459528184548641](https://cloud.githubusercontent.com/assets/9846274/14213507/36ab66e8-f830-11e5-90ec-84d836913263.PNG)
