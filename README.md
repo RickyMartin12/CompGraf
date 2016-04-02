@@ -13,6 +13,10 @@
 
 PS: Instalar o Blender 2.72 em Windows e em Linux
 
+#### Controlos:
+
+Frente - W; Esquerda - A; Direita - D; Atrás - S;
+
 ### Imagens do Jogo - Pokemon Attack
 
 
